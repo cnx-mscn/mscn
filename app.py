@@ -119,4 +119,4 @@ if st.session_state.girisler:
 
 else:
     st.info("Henüz şehir girilmedi.")
-  add app.py
+ 
